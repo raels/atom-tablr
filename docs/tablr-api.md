@@ -1,4 +1,4 @@
-<img src='http://abe33.github.io/atom-tablr/heading.svg' width='858' height='50'>
+<img src='http://raels.github.io/atom-tablr/heading.svg' width='858' height='50'>
 
 ## Models Service
 
@@ -110,4 +110,4 @@ readFile(filePath, data => {
 
 Now our table editor can be modified and saved on disk at any time.
 
-If you want to see a more concrete example, you can take a look to the [CSVEditor class](https://github.com/abe33/atom-tablr/blob/master/lib/csv-editor.coffee) and [its test suite](https://github.com/abe33/atom-tablr/blob/master/spec/csv-editor-spec.coffee).
+If you want to see a more concrete example, you can take a look to the [CSVEditor class](https://github.com/raels/atom-tablr/blob/master/lib/csv-editor.coffee) and [its test suite](https://github.com/raels/atom-tablr/blob/master/spec/csv-editor-spec.coffee).
